@@ -9,6 +9,7 @@ Welcome to GDI! See outline and repository guide below.
 * **Day 1**
   * [Intro](contents/intro.md) (30 min)
   * ES6 Concepts (30 min)
+  * ES5 to ES6 
   * React 101 (60 min)
     * [Components](contents/concepts/components.md)
     * [JSX](contents/concepts/jsx.md)
@@ -19,8 +20,8 @@ Welcome to GDI! See outline and repository guide below.
     * Styling in React - classes and inline (what are the limitations of classes - why would you want to do this inline)
     * React Name Tags (props and style (no state or events))
 * **Day 2**
-  * [Implementing a counter](examples/counter.md) (60 min) (state and events)
-  * [Implementing dynamic filtering](examples/dynamic-filtering.md) (120 min)
+  * [Exercise: Counter](examples/counter.md) (60 min) (state and events)
+  * [Exercise: Dynamic Filtering](examples/dynamic-filtering.md) (120 min)
 
 #### Repo Guide
 
