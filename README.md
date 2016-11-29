@@ -21,7 +21,8 @@ Welcome to GDI! See outline and repository guide below.
     * React Name Tags (props and style (no state or events))
 * **Day 2**
   * [Exercise: Counter](examples/counter.md) (60 min) (state and events)
-  * [Exercise: Dynamic Filtering](examples/dynamic-filtering.md) (120 min)
+  * [Exercise: Dynamic Filtering](examples/dynamic-filtering.md) (105 min)
+  * Tooling (15 min)
 
 #### Repo Guide
 
