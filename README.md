@@ -7,7 +7,12 @@ Welcome to GDI! See outline and repository guide below.
 2 3-hour sessions: 360 minutes of content and practice with 60 minutes of breaks.
 
 * **Day 1**
-  * [Intro](contents/intro.md) (30 min)
+  * [What and Why](contents/intro.md) (30 min)
+    * What is React?
+    * What is React not?
+    * Who is using it?
+    * Pros
+    * Cons
   * ES6 Concepts (30 min)
   * ES5 to ES6 
   * React 101 (60 min)
